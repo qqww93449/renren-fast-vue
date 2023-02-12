@@ -5,6 +5,8 @@
 </template>
 
 <script>
+import '@/element-ui'                         // api: https://github.com/ElemeFE/element
+
   export default {
   }
 </script>
